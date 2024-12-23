@@ -1,0 +1,54 @@
+.navbar{
+    background-color: #ff1100dc;
+}
+.navbar-brand{
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman';
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{
+    margin-left:  auto;
+}
+/* damo show  */
+    .container{
+        /* background-color: gray; */
+    }
+/* add pament section  */
+
+.text_pro{
+    text-align: center;
+
+}
+.text_prod{
+    margin-top: 60px;
+}
+
+
+/* fry gsdghfchfcgjkhb */
+.ddanger{
+    padding: 1px 15px;
+    background-color: red;
+    border-radius: 3px;
+    color: white;
+}
+.spnn{
+    color: red;
+}
+.span_class{
+    display: flex;
+    justify-content: space-between;
+}
+.helll{
+    display: flex;
+    justify-content: space-between;
+}
+.helloo{
+    background-color: red;
+}
+/* asdfyul;vkjkoyukouygkll; */
